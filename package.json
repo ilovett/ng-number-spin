@@ -1,6 +1,6 @@
 {
   "name": "ng-number-spin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Directive for numeric inputs, with customizable spin arrow buttons",
   "main": "index.js",
   "repository": {
