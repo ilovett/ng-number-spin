@@ -2,8 +2,8 @@
   "name": "ng-number-spin",
   "description": "Directive for numeric inputs, with customizable spin arrow buttons",
   "main": [
-    "./dist/js/ng-number-spin.min.js",
-    "./dist/css/ng-number-spin.min.css"
+    "./dist/js/ng-number-spin.js",
+    "./dist/css/ng-number-spin.css"
   ],
   "authors": [
     "Sergey Zhitenev"
